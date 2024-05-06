@@ -1,0 +1,16 @@
+{
+  "name": "simple_calculator_to_calculate",
+  "version": "1.2.3",
+  "description": "simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "."
+  },
+  "keywords": [
+    "calculator",
+    "npm",
+    "calculator"
+  ],
+  "author": "Abesh",
+  "license": "ISC"
+}
